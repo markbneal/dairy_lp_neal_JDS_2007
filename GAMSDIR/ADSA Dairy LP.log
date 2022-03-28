@@ -1,0 +1,250 @@
+
+--- Job ADSA Dairy LP.gms Start 12/08/06 15:31:20
+GAMS Rev 145  Copyright (C) 1987-2006 GAMS Development. All rights reserved
+*** License file too old for this version of GAMS.
+*** Maintenance expired 17 days ago.
+Licensee: David Adamson                                  G050509:1134AP-WIN
+          The University of Queensland St Lucia                      DC5245
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- ADSA Dairy LP.gms(66) 3 Mb
+--- .AF.csv(3) 3 Mb
+--- ADSA Dairy LP.gms(73) 3 Mb
+--- .GF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(79) 3 Mb
+--- .FertManure.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(89) 3 Mb
+--- .UreaF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(95) 3 Mb
+--- .P25F.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(101) 3 Mb
+--- .WI.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(107) 3 Mb
+--- .CF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(113) 3 Mb
+--- .LF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(119) 3 Mb
+--- .FertApp.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(125) 3 Mb
+--- .RF.csv(2) 3 Mb
+--- ADSA Dairy LP.gms(131) 3 Mb
+--- .Mow.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(139) 3 Mb
+--- .CS.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(159) 3 Mb
+--- .HarvestF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(192) 3 Mb
+--- .DMS.csv(4) 3 Mb
+--- ADSA Dairy LP.gms(198) 3 Mb
+--- .DMF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(204) 3 Mb
+--- .DMF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(210) 3 Mb
+--- .DMH.csv(3) 3 Mb
+--- ADSA Dairy LP.gms(229) 3 Mb
+--- .MES.csv(2) 3 Mb
+--- ADSA Dairy LP.gms(235) 3 Mb
+--- .MEF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(241) 3 Mb
+--- .MEF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(247) 3 Mb
+--- .MEH.csv(3) 3 Mb
+--- ADSA Dairy LP.gms(266) 3 Mb
+--- .PS.csv(2) 3 Mb
+--- ADSA Dairy LP.gms(272) 3 Mb
+--- .PF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(278) 3 Mb
+--- .PF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(284) 3 Mb
+--- .PH.csv(3) 3 Mb
+--- ADSA Dairy LP.gms(303) 3 Mb
+--- .FS.csv(2) 3 Mb
+--- ADSA Dairy LP.gms(309) 3 Mb
+--- .FF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(315) 3 Mb
+--- .FF.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(321) 3 Mb
+--- .FH.csv(3) 3 Mb
+--- ADSA Dairy LP.gms(340) 3 Mb
+--- .PDMS.csv(2) 3 Mb
+--- ADSA Dairy LP.gms(348) 3 Mb
+--- .DMIs.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(359) 3 Mb
+--- .MEMaints.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(369) 3 Mb
+--- .MEProds.csv(10) 3 Mb
+--- ADSA Dairy LP.gms(380) 3 Mb
+--- .Prots.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(392) 3 Mb
+--- .ProdRest6000s.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(402) 3 Mb
+--- .ProdRest9000s.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(424) 3 Mb
+--- .LCCAdv.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(430) 3 Mb
+--- .CCs.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(479) 3 Mb
+--- .MPUni.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(485) 3 Mb
+--- .MPSeas.csv(13) 3 Mb
+--- ADSA Dairy LP.gms(681) 3 Mb
+--- .xMultiSolvesTable.csv(40) 3 Mb
+--- ADSA Dairy LP.gms(1266) 3 Mb
+--- .xldump.gms(4) 3 Mb
+--- ..xllink.gms(8) 3 Mb
+--- .xldump.gms(10) 3 Mb
+--- call echo report1 | sed s/\..*// >> C:\Documents and Settings\Neal\My Documents\gamsdir\225a\symb.scr
+--- .xldump.gms(73) 3 Mb
+--- ADSA Dairy LP.gms(1267) 3 Mb
+--- .xldump.gms(10) 3 Mb
+--- call echo report2 | sed s/\..*// >> C:\Documents and Settings\Neal\My Documents\gamsdir\225a\symb.scr
+sed: can't read and: No such file or directory
+sed: can't read Settings\Neal\My: No such file or directory
+sed: can't read Documents\gamsdir\225a\symb.scr: No such file or directory
+The process tried to write to a nonexistent pipe.
+--- .xldump.gms(73) 3 Mb
+--- ADSA Dairy LP.gms(1282) 3 Mb
+--- .ADSA Dairy LP Report.gms(2017) 3 Mb
+--- ADSA Dairy LP.gms(1282) 3 Mb
+--- Starting execution
+--- ADSA Dairy LP.gms(1674) 4 Mb
+--- GDXin=C:\Documents and Settings\Neal\My Documents\gamsdir\DairyFarm_p.gdx
+--- ADSA Dairy LP.gms(1676) 6 Mb
+--- Generating LP model DairyFarmsed: can't read and: No such file or directory
+sed: can't read Settings\Neal\My: No such file or directory
+sed: can't read Documents\gamsdir\225a\symb.scr: No such file or directory
+The process tried to write to a nonexistent pipe.
+
+--- ADSA Dairy LP.gms(1678) 11 Mb
+--- LOOPS ax = MAxWH1
+---   3,332 rows  23,417 columns  150,406 non-zeroes
+--- Executing CONOPT
+C O N O P T 3 Apr 21, 2006 WIN.CO.CO 22.2 016.057.041.VIS Library 314P     
+ 
+ 
+    C O N O P T 3   x86/MS Windows version 3.14P-016-057
+    Copyright (C)   ARKI Consulting and Development A/S
+                    Bagsvaerdvej 246 A
+                    DK-2880 Bagsvaerd, Denmark
+ 
+ Using default options.
+ 
+ Reading Data
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+      0   0        1.1864084328E+04 (Input point)
+                                Pre-triangular equations:        1
+                                Post-triangular equations:     146
+      1   0        1.1864084328E+04 (After pre-processing)
+      2   0        3.9725276450E+00 (After scaling)
+      3   0     6  3.9721580533E+00               1.1E-04      T  T
+      4   0     6  3.9681940448E+00               1.2E-03      T  T
+      5   0     6  3.9415717637E+00               7.9E-03      T  T
+      6   0     6  3.9376072217E+00               1.2E-03      T  T
+      7   0     6  3.8777010571E+00               1.8E-02      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+      8   0     6  3.8688998132E+00               2.7E-03      T  T
+      9   0     6  3.8675259037E+00               4.2E-04      T  T
+     10   0     6  3.8643309666E+00               9.8E-04      T  T
+     11   0     6  3.8606086040E+00               1.1E-03      T  T
+     12   0     6  3.6673957321E+00               6.3E-02      T  T
+     13   0     6  3.6589345711E+00               3.0E-03      T  T
+     14   0     6  3.6037183250E+00               1.9E-02      T  T
+     15   0     6  3.5145450804E+00               3.2E-02      T  T
+     16   0     6  3.2654122440E+00               8.9E-02      T  T
+     17   0     6  3.0814390026E+00               7.2E-02      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     18   0     6  2.2247754022E+00               3.6E-01      T  T
+     19   0     6  2.0673187453E+00               6.8E-02      T  T
+     20   0     6  2.0673187453E+00               0.0E+00      T  T
+     21   0     6  1.9021409671E+00               1.2E-01      T  T
+     22   0     6  1.8631520889E+00               2.0E-02      T  T
+     23   0     6  1.8463992904E+00               9.9E-03      T  T
+     24   0     6  1.8040412028E+00               3.6E-02      T  T
+     25   0     6  1.5678661903E+00               2.1E-01      T  T
+     26   0     6  1.4545000224E+00               1.3E-01      T  T
+     27   0     6  1.4361255797E+00               2.5E-02      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     28   0     6  1.4064867273E+00               1.2E-01      T  T
+     29   0     6  1.4016233262E+00               2.2E-02      T  T
+     30   0     6  7.3921475391E-01               1.0E+00      F  T
+     31   1     1  1.4906353790E-02 3.4E+00    49 1.0E+00   10 T  T
+ 
+ ** Feasible solution. Value of objective =    388801.214648
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     32   3        3.9817715094E+05 1.9E+05    68 1.0E+00   50 T  T
+     33   3        4.0150130609E+05 2.0E+05    47 1.0E+00   56 T  T
+     34   3        4.0678723904E+05 2.6E+04    21 1.0E+00   60 T  T
+     35   3        4.1017528343E+05 2.2E+03    33 1.0E+00   59 T  T
+     36   3        4.1089383448E+05 3.4E+02    54 1.0E+00   63 T  T
+     37   3        4.1092586429E+05 9.2E+01    20 1.0E+00   19 T  T
+     38   3        4.1092586429E+05 0.0E+00    20
+ 
+ ** Optimal solution. Reduced gradient less than tolerance.
+ 
+--- Restarting execution
+--- ADSA Dairy LP.gms(1678) 0 Mb
+--- Reading solution for model DairyFarm
+--- Executing after solve
+--- ADSA Dairy LP.gms(1676) 5 Mb
+--- Generating LP model DairyFarm
+--- ADSA Dairy LP.gms(1678) 10 Mb
+--- LOOPS ax = MAxWH2
+---   3,332 rows  23,417 columns  150,406 non-zeroes
+--- Executing CONOPT
+C O N O P T 3 Apr 21, 2006 WIN.CO.CO 22.2 016.057.041.VIS Library 314P     
+ 
+ 
+    C O N O P T 3   x86/MS Windows version 3.14P-016-057
+    Copyright (C)   ARKI Consulting and Development A/S
+                    Bagsvaerdvej 246 A
+                    DK-2880 Bagsvaerd, Denmark
+ 
+ Using default options.
+ 
+ Reading Data
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+      0   0        5.0000000003E+01 (Input point)
+                                Pre-triangular equations:        1
+                                Post-triangular equations:     145
+      1   0        1.8952500000E+05 (After pre-processing)
+      2   0        1.2394180298E+01 (After scaling)
+      3   0     2  7.8125000000E-01               1.0E+00      F  T
+ 
+ ** Feasible solution. Value of objective =    136469.153790
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+      4   3        1.4150678170E+05 5.3E+03    50 1.0E+00   50 T  T
+      5   3        1.4900938420E+05 2.9E+03    41 1.0E+00   55 T  T
+      6   3        1.5921642003E+05 2.8E+03    40 1.0E+00   60 T  T
+      7   3        1.6750573729E+05 6.3E+03    37 1.0E+00   57 T  T
+      8   3        1.7406154000E+05 3.8E+03    28 1.0E+00   67 T  T
+      9   3        1.8450788090E+05 3.9E+03    34 1.0E+00   72 T  T
+     10   3        1.8990075115E+05 7.7E+03    35 1.0E+00   77 T  T
+     11   3        2.0385645937E+05 1.6E+03    36 1.0E+00   78 T  T
+     12   3        2.1561519561E+05 4.2E+03    43 1.0E+00   87 T  T
+     13   3        2.3844847024E+05 8.4E+04    41 1.0E+00   92 T  T
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     14   3        2.5460563621E+05 4.3E+03    50 1.0E+00   97 T  T
+     15   3        2.7045117459E+05 5.9E+03    60 1.0E+00  102 T  T
+     16   3        2.8924128624E+05 2.7E+03    60 1.0E+00  107 T  T
+     17   3        3.0210072834E+05 1.7E+03    53 1.0E+00  112 T  T
+     18   3        3.1317648351E+05 2.3E+04    59 1.0E+00  117 T  T
+     19   3        3.1623564585E+05 9.3E+03    41 1.0E+00  124 T  T
+     20   3        3.2008143584E+05 2.7E+03    44 1.0E+00  127 T  T
+     21   3        3.2295636641E+05 1.4E+03    53 1.0E+00  132 T  T
+     22   3        3.2890596137E+05 3.8E+03    66 1.0E+00  137 T  T
+     23   3        3.4808041008E+05 3.4E+03    73 1.0E+00  142 T  T
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     24   3        3.5275572573E+05 5.3E+03    52 1.0E+00  150 T  T
+Sending Stop signal
+Terminate batch job (Y/N)? 
+forrtl: error (200): program aborting due to control-BREAK event
+Exit code = -1073741510

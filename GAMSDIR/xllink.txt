@@ -1,0 +1,5 @@
+o="c:\gams\AdsaLpReport.xls"
+nc=1
+epsout=0
+par=report2
+rng=Sheet2!A1
