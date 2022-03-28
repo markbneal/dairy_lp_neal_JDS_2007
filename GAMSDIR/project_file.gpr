@@ -1,1 +1,19 @@
 [PROJECT]
+
+[RP:ADSA DAIRY LP RDP UDP]
+1=
+
+[MRUFILES]
+1=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_JDS_2007\GAMSDIR\xllink.gdx
+2=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_JDS_2007\GAMSDIR\DairyFarm_p.gdx
+3=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_JDS_2007\GAMSDIR\ADSA Dairy LP RDP UDP.lst
+
+[OPENWINDOW_1]
+MAXIM=1
+TOP=0
+LEFT=0
+HEIGHT=395
+WIDTH=520
+FILE0=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_JDS_2007\GAMSDIR\ADSA Dairy LP RDP UDP.gms
+FILE1=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_JDS_2007\GAMSDIR\ADSA Dairy LP RDP UDP.lst
+FILE2=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_JDS_2007\GAMSDIR\ADSA Dairy LP RDP UDP.lst

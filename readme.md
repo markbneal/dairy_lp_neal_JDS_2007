@@ -11,15 +11,15 @@ Although several forage species such as perennial ryegrass are predominant, ther
 
 This model builds on the Mark Neal's honour's thesis work (1), which itself built on a previous assignment (2). This model takes advantage of experimental data from James Neal (3).
 
-The final model after addressing reviewer comments is 'ADSA Dairy LP RDP UDP.gms'
+The final model input after addressing reviewer comments is 'ADSA Dairy LP RDP UDP.gms'. The output is'ADSA Dairy LP RDP UDP.lst'. The detailed results are viewable in 'DairyFarm_p.gdx'.  
+
+A table of results are created towards the end of the file for ease of reporting. This can be seen in 'xllink.gdx' (open in gams), and gams attempts to create 'AdsaLpReport.xls' in c:\gams\.
 
 To run the model requires a license (gamslice.txt) with the conopt3 solver. Other solvers may work, but have not been tried recently. Also note you will need to open a new gams project file (.gpr) first in the directory with the model to point to the proper default location for the files to include on your computer.
 
 Parameters are often read from csv files for ease of data entry (e.g. AF.csv).
 
 Load_point files (created with save_point in previous runs) have previously been used to provide a starting point to speed solutions, but are not necessary, and hence are commented out.
-
-Two tables of results are created towards the end of the file for ease of reporting.
 
 A loop (with subscript ax) is available to run multiple solves for all the scenarios reported on in the paper, using a table in csv format (xMultiSolvesTable.csv). Currently this option is commented out a dummy table is used for one solution (xMultiSolvesDummy.csv), which solves in about 2 minutes on a circa 2020 laptop.
 
